@@ -1,2 +1,7 @@
-<?php $mensagem= 'Hello Word!'; /*o $ guarda a variável*/
-    echo $mensagem; /* A função echo é a instrução que envia para a saída qualquer informação, podendo conter texto, números ou variáveis. */
+<?php
+
+$A = 2;
+$B = 3;
+
+$soma = $A + $B;
+print $soma;
